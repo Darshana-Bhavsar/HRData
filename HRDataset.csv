@@ -1,0 +1,312 @@
+﻿Employee_Name,EmpID,Salary,Position,DOB,Sex,DateofHire,DateofTermination,Department,ManagerName,ManagerID,RecruitmentSource
+"Adinolfi, Wilson  K",10026,62506,Production Technician I,1983-07-10,{M },2011-07-05,,Production,Michael Albert,22,LinkedIn
+"Ait Sidi, Karthikeyan   ",10084,104437,Sr. DBA,1975-05-05,{M },2015-03-30,2016-06-16,IT/IS,Simon Roup,4,Indeed
+"Akinkuolie, Sarah",10196,64955,Production Technician II,1988-09-19,{F},2011-07-05,2012-09-24,Production,Kissy Sullivan,20,LinkedIn
+"Alagbe,Trina",10088,64991,Production Technician I,1988-09-27,{F},2008-01-07,,Production,Elijiah Gray,16,Indeed
+"Anderson, Carol ",10069,50825,Production Technician I,1989-09-08,{F},2011-07-11,2016-09-06,Production,Webster Butler,39,Google Search
+"Anderson, Linda  ",10002,57568,Production Technician I,1977-05-22,{F},2012-01-09,,Production,Amy Dunn,11,LinkedIn
+"Andreola, Colby",10194,95660,Software Engineer,1979-05-24,{F},2014-11-10,,Software Engineering,Alex Sweetwater,10,LinkedIn
+"Athwal, Sam",10062,59365,Production Technician I,1983-02-18,{M },2013-09-30,,Production,Ketsia Liebig,19,Employee Referral
+"Bachiochi, Linda",10114,47837,Production Technician I,1970-02-11,{F},2009-07-06,,Production,Brannon Miller,12,Diversity Job Fair
+"Bacong, Alejandro ",10250,50178,IT Support,1988-01-07,{M },2015-01-05,,IT/IS,Peter Monroe,7,Indeed
+"Baczenski, Rachael  ",10252,54670,Production Technician I,1974-01-12,{F},2011-01-10,2017-01-12,Production,David Stanley,14,Diversity Job Fair
+"Barbara, Thomas",10242,47211,Production Technician I,1974-02-21,{M },2012-04-02,2016-09-19,Production,Kissy Sullivan,20,Diversity Job Fair
+"Barbossa, Hector",10012,92328,Data Analyst,1988-07-04,{M },2014-11-10,,IT/IS,Simon Roup,4,Diversity Job Fair
+"Barone, Francesco  A",10265,58709,Production Technician I,1983-07-20,{M },2012-02-20,,Production,Kelley Spirea,18,Google Search
+"Barton, Nader",10066,52505,Production Technician I,1977-07-15,{M },2012-09-24,2017-04-06,Production,Michael Albert,22,On-line Web application
+"Bates, Norman",10061,57834,Production Technician I,1981-10-18,{M },2011-02-21,2017-08-04,Production,Kelley Spirea,18,Google Search
+"Beak, Kimberly  ",10023,70131,Production Technician II,1966-04-17,{F},2016-07-21,,Production,Kelley Spirea,18,Employee Referral
+"Beatrice, Courtney ",10055,59026,Production Technician I,1970-10-27,{F},2011-04-04,,Production,Elijiah Gray,16,Google Search
+"Becker, Renee",10245,110000,Database Administrator,1986-04-04,{F},2014-07-07,2015-09-12,IT/IS,Simon Roup,4,Google Search
+"Becker, Scott",10277,53250,Production Technician I,1979-04-06,{M },2013-07-08,,Production,Webster Butler,,LinkedIn
+"Bernstein, Sean",10046,51044,Production Technician I,1970-12-22,{M },2012-04-02,,Production,Amy Dunn,11,Google Search
+"Biden, Lowan  M",10226,64919,Production Technician I,1958-12-27,{F},2013-08-19,,Production,Ketsia Liebig,19,Indeed
+"Billis, Helen",10003,62910,Production Technician I,1989-09-01,{F},2014-07-07,,Production,Brannon Miller,12,Indeed
+"Blount, Dianna",10294,66441,Production Technician II,1990-09-21,{F},2011-04-04,,Production,Michael Albert,22,CareerBuilder
+"Bondwell, Betsy",10267,57815,Production Technician II,1967-01-16,{F},2011-01-10,2014-04-04,Production,Elijiah Gray,16,Google Search
+"Booth, Frank",10199,103613,Enterprise Architect,1964-07-30,{M },2014-02-17,2016-02-19,IT/IS,Simon Roup,4,LinkedIn
+"Boutwell, Bonalyn",10081,106367,Sr. Accountant,1987-04-04,{F},2015-02-16,,Admin Offices,Brandon R. LeBlanc,3,Diversity Job Fair
+"Bozzi, Charles",10175,74312,Production Manager,1970-03-10,{M },2013-09-30,2014-08-07,Production,Janet King,2,Indeed
+"Brill, Donna",10177,53492,Production Technician I,1990-08-24,{F},2012-04-02,2013-06-15,Production,David Stanley,14,Google Search
+"Brown, Mia",10238,63000,Accountant I,1987-11-24,{F},2008-10-27,,Admin Offices,Brandon R. LeBlanc,1,Diversity Job Fair
+"Buccheri, Joseph  ",10184,65288,Production Technician II,1983-07-28,{M },2014-09-29,,Production,Webster Butler,,Google Search
+"Bugali, Josephine ",10203,64375,Production Technician I,1969-10-30,{F},2013-11-11,,Production,Kissy Sullivan,20,Diversity Job Fair
+"Bunbury, Jessica",10188,74326,Area Sales Manager,1964-06-01,{F},2011-08-15,2014-08-02,Sales,John Smith,17,Google Search
+"Burke, Joelle",10107,63763,Production Technician II,1980-03-02,{F},2012-03-05,,Production,Amy Dunn,11,Employee Referral
+"Burkett, Benjamin ",10181,62162,Production Technician II,1977-08-19,{M },2011-04-04,,Production,Ketsia Liebig,19,Indeed
+"Cady, Max ",10150,77692,Software Engineering Manager,1966-11-22,{M },2011-08-15,,Software Engineering,Jennifer Zamora,5,Google Search
+"Candie, Calvin",10001,72640,Production Manager,1983-08-09,{M },2016-01-28,,Production,Janet King,2,Indeed
+"Carabbio, Judith",10085,93396,Software Engineer,1987-04-05,{F},2013-11-11,,Software Engineering,Alex Sweetwater,10,Indeed
+"Carey, Michael  ",10115,52846,Production Technician I,1983-02-02,{M },2014-03-31,,Production,Kelley Spirea,18,LinkedIn
+"Carr, Claudia  N",10082,100031,Sr. DBA,1986-06-06,{F},2016-06-30,,IT/IS,Simon Roup,4,LinkedIn
+"Carter, Michelle ",10040,71860,Area Sales Manager,1963-05-15,{F},2014-08-18,,Sales,John Smith,17,Indeed
+"Chace, Beatrice ",10067,61656,Production Technician I,1951-01-02,{F},2014-09-29,,Production,Michael Albert,22,Google Search
+"Champaigne, Brian",10108,110929,BI Director,1972-02-09,{M },2016-09-06,,IT/IS,Jennifer Zamora,5,Indeed
+"Chan, Lin",10210,54237,Production Technician I,1979-02-12,{F},2014-05-12,,Production,Elijiah Gray,16,Indeed
+"Chang, Donovan  E",10154,60380,Production Technician I,1983-08-24,{M },2013-07-08,,Production,Webster Butler,,LinkedIn
+"Chigurh, Anton",10200,66808,Area Sales Manager,1970-06-11,{M },2012-05-14,,Sales,Lynn Daneault,21,Employee Referral
+"Chivukula, Enola",10240,64786,Production Technician I,1983-08-27,{F},2011-06-27,2015-11-15,Production,Amy Dunn,11,Indeed
+"Cierpiszewski, Caroline  ",10168,64816,Production Technician I,1988-05-31,{F},2011-10-03,,Production,Ketsia Liebig,19,Indeed
+"Clayton, Rick",10220,68678,IT Support,1985-09-05,{M },2012-09-05,,IT/IS,Eric Dougall,6,Indeed
+"Cloninger, Jennifer",10275,64066,Production Technician II,1981-08-31,{F},2011-05-16,2013-01-07,Production,Brannon Miller,12,Google Search
+"Close, Phil",10269,59369,Production Technician II,1978-11-25,{M },2010-08-30,2011-09-26,Production,David Stanley,14,Indeed
+"Clukey, Elijian",10029,50373,Production Technician I,1980-08-26,{M },2016-07-06,,Production,Brannon Miller,12,Employee Referral
+"Cockel, James",10261,63108,Production Technician I,1977-09-08,{M },2013-07-08,,Production,David Stanley,14,Employee Referral
+"Cole, Spencer",10292,59144,Production Technician I,1979-08-12,{M },2011-07-11,2016-09-23,Production,Kissy Sullivan,20,LinkedIn
+"Corleone, Michael",10282,68051,Production Manager,1975-12-17,{M },2010-07-20,,Production,Janet King,2,CareerBuilder
+"Corleone, Vito",10019,170500,Director of Operations,1983-03-19,{M },2009-01-05,,Production,Janet King,2,Indeed
+"Cornett, Lisa ",10094,63381,Production Technician I,1977-03-31,{F},2015-01-05,,Production,Kelley Spirea,18,Indeed
+"Costello, Frank",10193,83552,Data Analyst,1986-08-26,{M },2015-03-30,,IT/IS,Simon Roup,4,Indeed
+"Crimmings,   Jean",10132,56149,Production Technician I,1987-04-10,{F},2016-07-06,,Production,Michael Albert,22,LinkedIn
+"Cross, Noah",10083,92329,Sr. Network Engineer,1965-09-09,{M },2014-11-10,,IT/IS,Peter Monroe,7,Employee Referral
+"Daneault, Lynn",10099,65729,Sales Manager,1990-04-19,{F},2014-05-05,,Sales,Debra Houlihan,15,Indeed
+"Daniele, Ann  ",10212,85028,Sr. Network Engineer,1952-01-18,{F},2014-11-10,,IT/IS,Peter Monroe,7,LinkedIn
+"Darson, Jene'ya ",10056,57583,Production Technician I,1978-11-05,{F},2012-07-02,,Production,Elijiah Gray,16,Indeed
+"Davis, Daniel",10143,56294,Production Technician II,1979-09-14,{M },2011-11-07,,Production,Kissy Sullivan,20,LinkedIn
+"Dee, Randy",10311,56991,Production Technician I,1988-04-15,{M },2018-07-09,,Production,Brannon Miller,12,Indeed
+"DeGweck,  James",10070,55722,Production Technician I,1977-10-31,{M },2011-05-16,2016-06-08,Production,Webster Butler,39,Indeed
+"Del Bosque, Keyla",10155,101199,Software Engineer,1979-07-05,{F},2012-01-09,,Software Engineering,Alex Sweetwater,10,CareerBuilder
+"Delarge, Alex",10306,61568,Area Sales Manager,1975-11-02,{M },2014-09-29,,Sales,John Smith,17,Indeed
+"Demita, Carla",10100,58275,Production Technician II,1951-02-25,{F},2011-04-04,2015-11-04,Production,Kelley Spirea,18,Google Search
+"Desimone, Carl ",10310,53189,Production Technician I,1967-04-19,{M },2014-07-07,,Production,Amy Dunn,11,Indeed
+"DeVito, Tommy",10197,96820,BI Developer,1983-09-04,{M },2017-02-15,,IT/IS,Brian Champaigne,13,Indeed
+"Dickinson, Geoff ",10276,51259,Production Technician I,1982-11-15,{M },2014-05-12,,Production,Ketsia Liebig,19,Indeed
+"Dietrich, Jenna  ",10304,59231,Area Sales Manager,1987-05-14,{F},2012-02-20,,Sales,John Smith,17,Website
+"DiNocco, Lily ",10284,61584,Production Technician I,1978-12-02,{F},2013-01-07,,Production,Brannon Miller,12,Indeed
+"Dobrin, Denisa  S",10207,46335,Production Technician I,1986-10-07,{F},2012-04-02,,Production,David Stanley,14,CareerBuilder
+"Dolan, Linda",10133,70621,IT Support,1988-07-18,{F},2015-01-05,,IT/IS,Peter Monroe,7,Employee Referral
+"Dougall, Eric",10028,138888,IT Manager - Support,1970-07-09,{M },2014-01-05,,IT/IS,Jennifer Zamora,5,Indeed
+"Driver, Elle",10006,74241,Area Sales Manager,1988-11-08,{F},2011-01-10,,Sales,Lynn Daneault,21,Indeed
+"Dunn, Amy  ",10105,75188,Production Manager,1973-11-28,{F},2014-09-18,,Production,Janet King,2,Google Search
+"Dunne, Amy",10211,62514,Production Technician I,1973-09-23,{F},2010-04-26,,Production,Ketsia Liebig,19,Google Search
+"Eaton, Marianne",10064,60070,Production Technician I,1991-09-05,{F},2011-04-04,2017-06-06,Production,Kissy Sullivan,20,Google Search
+"Engdahl, Jean",10247,48888,Production Technician I,1974-05-31,{M },2014-11-10,,Production,Kelley Spirea,18,LinkedIn
+"England, Rex",10235,54285,Production Technician I,1978-08-25,{M },2014-03-31,,Production,Kelley Spirea,18,Employee Referral
+"Erilus, Angela",10299,56847,Production Technician II,1989-08-25,{F},2014-07-07,,Production,Michael Albert,22,Indeed
+"Estremera, Miguel",10280,60340,Production Technician I,1983-09-02,{M },2012-04-02,2018-09-27,Production,Michael Albert,22,Google Search
+"Evensen, April",10296,59124,Production Technician I,1989-05-06,{F},2014-02-17,2018-02-25,Production,Elijiah Gray,16,Google Search
+"Exantus, Susan",10290,99280,Software Engineer,1987-05-15,{F},2011-05-02,2013-06-05,Software Engineering,Alex Sweetwater,10,Indeed
+"Faller, Megan ",10263,71776,Production Technician II,1978-09-22,{F},2014-07-07,,Production,Elijiah Gray,16,LinkedIn
+"Fancett, Nicole",10136,65902,Production Technician II,1987-09-27,{F},2014-02-17,,Production,Webster Butler,,LinkedIn
+"Ferguson, Susan",10189,57748,Production Technician I,1955-04-14,{F},2011-11-07,2016-05-17,Production,Webster Butler,39,Google Search
+"Fernandes, Nilson  ",10308,64057,Production Technician I,1989-10-18,{M },2015-05-11,,Production,Amy Dunn,11,Indeed
+"Fett, Boba",10309,53366,Network Engineer,1987-06-18,{M },2015-03-30,,IT/IS,Peter Monroe,7,LinkedIn
+"Fidelia,  Libby",10049,58530,Production Technician I,1981-03-16,{F},2012-01-09,,Production,Brannon Miller,12,Google Search
+"Fitzpatrick, Michael  J",10093,72609,Production Technician II,1981-10-01,{M },2011-05-16,2013-06-24,Production,Amy Dunn,11,Google Search
+"Foreman, Tanya",10163,55965,Production Technician II,1983-11-08,{F},2011-04-04,2013-01-09,Production,Ketsia Liebig,19,Google Search
+"Forrest, Alex",10305,70187,Area Sales Manager,1975-07-07,{M },2014-09-29,2018-08-19,Sales,Lynn Daneault,21,Employee Referral
+"Foss, Jason",10015,178000,IT Director,1980-07-05,{M },2011-04-15,,IT/IS,Jennifer Zamora,5,Indeed
+"Foster-Baker, Amy",10080,99351,Sr. Accountant,1979-04-16,{F},2009-01-05,,Admin Offices,Board of Directors,9,Other
+"Fraval, Maruk ",10258,67251,Area Sales Manager,1963-08-28,{M },2011-09-06,,Sales,Lynn Daneault,21,CareerBuilder
+"Galia, Lisa",10273,65707,IT Support,1968-07-06,{F},2010-05-01,,IT/IS,Eric Dougall,6,LinkedIn
+"Garcia, Raul",10111,52249,Production Technician I,1985-09-15,{M },2015-03-30,,Production,David Stanley,14,Employee Referral
+"Gaul, Barbara",10257,53171,Production Technician I,1983-12-02,{F},2011-05-16,,Production,Kelley Spirea,18,LinkedIn
+"Gentry, Mildred",10159,51337,Production Technician I,1990-10-01,{F},2015-03-30,,Production,Michael Albert,22,LinkedIn
+"Gerke, Melisa",10122,51505,Production Technician I,1970-05-15,{F},2011-11-07,2016-11-15,Production,Elijiah Gray,16,Diversity Job Fair
+"Gill, Whitney  ",10142,59370,Area Sales Manager,1971-07-10,{F},2014-07-07,2015-09-05,Sales,John Smith,17,CareerBuilder
+"Gilles, Alex",10283,54933,Production Technician I,1974-08-09,{M },2012-04-02,2015-06-25,Production,Webster Butler,39,Diversity Job Fair
+"Girifalco, Evelyn",10018,57815,Production Technician I,1980-05-08,{F},2014-09-29,,Production,Amy Dunn,11,Indeed
+"Givens, Myriam",10255,61555,Area Sales Manager,1989-09-22,{F},2015-02-16,,Sales,Lynn Daneault,21,Indeed
+"Goble, Taisha",10246,114800,Database Administrator,1971-10-23,{F},2015-02-16,2015-03-15,IT/IS,Simon Roup,4,Indeed
+"Goeth, Amon",10228,74679,IT Support,1989-11-24,{M },2015-03-30,,IT/IS,Peter Monroe,7,LinkedIn
+"Gold, Shenice  ",10243,53018,Production Technician I,1992-06-18,{F},2013-11-11,,Production,Ketsia Liebig,19,Indeed
+"Gonzalez, Cayo",10031,59892,Production Technician I,1969-09-29,{M },2011-07-11,,Production,Brannon Miller,12,Diversity Job Fair
+"Gonzalez, Juan",10300,68898,Production Technician II,1964-10-12,{M },2010-04-26,2011-05-30,Production,Brannon Miller,12,Diversity Job Fair
+"Gonzalez, Maria",10101,61242,IT Support,1981-04-16,{F},2015-01-05,,IT/IS,Peter Monroe,7,Employee Referral
+"Good, Susan",10237,66825,Production Technician II,1986-05-25,{F},2014-05-12,,Production,David Stanley,14,LinkedIn
+"Gordon, David",10051,48285,Production Technician I,1979-05-21,{M },2012-07-02,,Production,David Stanley,14,LinkedIn
+"Gosciminski, Phylicia  ",10218,66149,Production Technician II,1983-12-08,{F},2013-09-30,,Production,Kissy Sullivan,20,Google Search
+"Goyal, Roxana",10256,49256,Production Technician I,1974-10-09,{F},2013-08-19,,Production,Kissy Sullivan,20,LinkedIn
+"Gray, Elijiah  ",10098,62957,Production Manager,1981-07-11,{M },2015-06-02,,Production,Janet King,2,Employee Referral
+"Gross, Paula",10059,63813,Production Technician I,1983-05-21,{F},2011-02-21,2014-01-11,Production,Kelley Spirea,18,CareerBuilder
+"Gruber, Hans",10234,99020,BI Developer,1989-06-30,{M },2017-04-20,,IT/IS,Brian Champaigne,13,Indeed
+"Guilianno, Mike",10109,71707,Area Sales Manager,1969-02-09,{M },2012-03-07,2014-10-31,Sales,John Smith,17,LinkedIn
+"Handschiegl, Joanne",10125,54828,Production Technician I,1977-03-23,{F},2011-11-28,,Production,Michael Albert,22,Google Search
+"Hankard, Earnest",10074,64246,Production Technician II,1988-08-10,{M },2013-11-11,,Production,Kelley Spirea,18,LinkedIn
+"Harrington, Christie ",10097,52177,Production Technician I,1952-08-18,{F},2012-01-09,2015-12-15,Production,Webster Butler,39,CareerBuilder
+"Harrison, Kara",10007,62065,Production Technician I,1974-05-02,{F},2014-05-12,,Production,Amy Dunn,11,CareerBuilder
+"Heitzman, Anthony",10129,46998,Production Technician I,1984-01-04,{M },2012-08-13,,Production,Ketsia Liebig,19,Google Search
+"Hendrickson, Trina",10075,68099,Production Technician II,1972-08-27,{F},2011-01-10,2013-06-18,Production,Kelley Spirea,18,CareerBuilder
+"Hitchcock, Alfred",10167,70545,Area Sales Manager,1988-09-14,{M },2014-08-18,,Sales,John Smith,17,Indeed
+"Homberger, Adrienne  J",10195,63478,Production Technician II,1984-02-16,{F},2011-08-15,2012-04-07,Production,Michael Albert,30,Indeed
+"Horton, Jayne",10112,97999,Database Administrator,1984-02-21,{F},2015-03-30,,IT/IS,Simon Roup,4,Indeed
+"Houlihan, Debra",10272,180000,Director of Sales,1966-03-17,{F},2014-05-05,,Sales,Janet King,2,LinkedIn
+"Howard, Estelle",10182,49920,Administrative Assistant,1985-09-16,{F},2015-02-16,2015-04-15,Admin Offices,Brandon R. LeBlanc,1,Indeed
+"Hudson, Jane",10248,55425,Production Technician I,1986-06-10,{F},2012-02-20,,Production,Ketsia Liebig,19,LinkedIn
+"Hunts, Julissa",10201,69340,Production Technician II,1984-03-11,{F},2016-06-06,,Production,Elijiah Gray,16,LinkedIn
+"Hutter, Rosalie",10214,64995,Production Technician II,1992-05-07,{F},2015-06-05,,Production,Webster Butler,,Indeed
+"Huynh, Ming",10160,68182,Production Technician II,1976-09-22,{F},2011-02-21,2013-04-01,Production,Amy Dunn,11,Google Search
+"Immediato, Walter",10289,83082,Production Manager,1976-11-15,{M },2011-02-21,2012-09-24,Production,Janet King,2,Indeed
+"Ivey, Rose ",10139,51908,Production Technician I,1991-01-28,{F},2013-08-19,,Production,Brannon Miller,12,Indeed
+"Jackson, Maryellen",10227,61242,Production Technician I,1972-09-11,{F},2012-11-05,,Production,David Stanley,14,LinkedIn
+"Jacobi, Hannah  ",10236,45069,Production Technician I,1966-03-22,{F},2013-09-30,,Production,Kissy Sullivan,20,Employee Referral
+"Jeannite, Tayana",10009,60724,Production Technician II,1986-11-06,{F},2011-07-05,,Production,Ketsia Liebig,19,LinkedIn
+"Jhaveri, Sneha  ",10060,60436,Production Technician I,1964-04-13,{F},2014-01-06,,Production,Kelley Spirea,18,LinkedIn
+"Johnson, George",10034,46837,Production Technician I,1959-08-19,{M },2011-11-07,2018-04-29,Production,Michael Albert,22,CareerBuilder
+"Johnson, Noelle ",10156,105700,Database Administrator,1986-11-07,{F},2015-01-05,,IT/IS,Simon Roup,4,Indeed
+"Johnston, Yen",10036,63322,Production Technician II,1969-09-08,{F},2014-07-07,,Production,Brannon Miller,12,LinkedIn
+"Jung, Judy  ",10138,61154,Production Technician I,1986-04-17,{F},2011-01-10,2016-04-01,Production,Elijiah Gray,16,CareerBuilder
+"Kampew, Donysha",10244,68999,Sales Manager,1989-11-11,{F},2011-11-07,2014-04-24,Sales,Debra Houlihan,15,Google Search
+"Keatts, Kramer ",10192,50482,Production Technician I,1976-01-19,{M },2013-09-30,,Production,Michael Albert,22,Indeed
+"Khemmich, Bartholemew",10231,65310,Area Sales Manager,1979-11-27,{M },2013-08-19,,Sales,Lynn Daneault,21,Indeed
+"King, Janet",10089,250000,President & CEO,1954-09-21,{F},2012-07-02,,Executive Office,Board of Directors,9,Indeed
+"Kinsella, Kathleen  ",10166,54005,Production Technician I,1973-12-08,{F},2011-09-26,2015-06-04,Production,Webster Butler,39,Google Search
+"Kirill, Alexandra  ",10170,45433,Production Technician I,1970-10-08,{F},2011-09-26,2014-01-09,Production,Amy Dunn,11,Google Search
+"Knapp, Bradley  J",10208,46654,Production Technician I,1977-11-10,{M },2014-02-17,,Production,Ketsia Liebig,19,LinkedIn
+"Kretschmer, John",10176,63973,Production Technician I,1980-02-02,{M },2011-01-10,,Production,Brannon Miller,12,Indeed
+"Kreuger, Freddy",10165,71339,Area Sales Manager,1969-02-24,{M },2011-03-07,,Sales,John Smith,17,Diversity Job Fair
+"Lajiri,  Jyoti",10113,93206,Sr. Network Engineer,1986-04-23,{M },2014-11-10,,IT/IS,Peter Monroe,7,Employee Referral
+"Landa, Hans",10092,82758,Production Manager,1972-07-01,{M },2011-01-10,2015-12-12,Production,Janet King,2,Employee Referral
+"Langford, Lindsey",10106,66074,Production Technician II,1979-07-25,{F},2013-01-07,2014-03-31,Production,David Stanley,14,Indeed
+"Langton, Enrico",10052,46120,Production Technician I,1986-12-09,{M },2012-07-09,,Production,David Stanley,14,LinkedIn
+"LaRotonda, William  ",10038,64520,Accountant I,1984-04-26,{M },2014-01-06,,Admin Offices,Brandon R. LeBlanc,1,Website
+"Latif, Mohammed",10249,61962,Production Technician II,1984-05-09,{M },2012-04-02,2013-04-15,Production,Kissy Sullivan,20,Google Search
+"Le, Binh",10232,81584,Senior BI Developer,1987-06-14,{F},2016-10-02,,IT/IS,Brian Champaigne,13,Indeed
+"Leach, Dallas",10087,63676,Production Technician I,1979-01-17,{F},2011-09-26,2018-08-19,Production,Kissy Sullivan,20,CareerBuilder
+"LeBlanc, Brandon  R",10134,93046,Shared Services Manager,1984-06-10,{M },2016-01-05,,Admin Offices,Janet King,2,CareerBuilder
+"Lecter, Hannibal",10251,64738,Production Technician I,1982-09-02,{M },2012-05-14,,Production,Elijiah Gray,16,Google Search
+"Leruth, Giovanni",10103,70468,Area Sales Manager,1988-12-27,{M },2012-04-30,,Sales,John Smith,17,Website
+"Liebig, Ketsia",10017,77915,Production Manager,1981-10-26,{F},2013-09-30,,Production,Janet King,2,Website
+"Linares, Marilyn ",10186,52624,Production Technician I,1981-03-26,{F},2011-07-05,2018-09-26,Production,Michael Albert,22,Indeed
+"Linden, Mathew",10137,63450,Production Technician II,1979-03-19,{M },2013-07-08,,Production,Kelley Spirea,18,LinkedIn
+"Lindsay, Leonara ",10008,51777,IT Support,1988-10-05,{F},2011-01-21,,IT/IS,Eric Dougall,6,Diversity Job Fair
+"Lundy, Susan",10096,67237,Production Technician II,1976-12-26,{F},2013-07-08,2016-09-15,Production,Michael Albert,22,LinkedIn
+"Lunquist, Lisa",10035,73330,Production Technician II,1982-03-28,{F},2013-08-19,,Production,Elijiah Gray,16,Indeed
+"Lydon, Allison",10057,52057,Production Technician I,1975-10-22,{F},2015-02-16,,Production,Elijiah Gray,16,Website
+"Lynch, Lindsay",10004,47434,Production Technician I,1973-02-14,{F},2011-11-07,2015-11-14,Production,Webster Butler,39,Diversity Job Fair
+"MacLennan, Samuel",10191,52788,Production Technician I,1972-11-09,{M },2012-09-24,2017-09-26,Production,Amy Dunn,11,Indeed
+"Mahoney, Lauren  ",10219,45395,Production Technician I,1986-07-07,{F},2014-01-06,,Production,Ketsia Liebig,19,LinkedIn
+"Manchester, Robyn",10077,62385,Production Technician II,1976-08-25,{F},2016-05-11,,Production,Webster Butler,,LinkedIn
+"Mancuso, Karen",10073,68407,Production Technician II,1986-12-10,{F},2011-07-05,2012-08-19,Production,Amy Dunn,11,LinkedIn
+"Mangal, Debbie",10279,61349,Production Technician I,1974-11-07,{F},2013-11-11,,Production,Brannon Miller,12,LinkedIn
+"Martin, Sandra",10110,105688,Software Engineer,1987-11-07,{F},2013-11-11,,Software Engineering,Alex Sweetwater,10,Google Search
+"Maurice, Shana",10053,54132,Production Technician I,1977-11-22,{F},2011-05-31,,Production,David Stanley,14,Indeed
+"Carthy, B'rigit",10076,55315,Production Technician II,1987-05-21,{F},2015-03-30,,Production,Ketsia Liebig,19,LinkedIn
+"Mckenna, Sandy",10145,62810,Production Technician I,1987-01-07,{F},2013-01-07,,Production,Kissy Sullivan,20,CareerBuilder
+"McKinzie, Jac",10202,63291,Area Sales Manager,1984-07-01,{M },2016-07-06,,Sales,Lynn Daneault,21,Website
+"Meads, Elizabeth",10128,62659,Production Technician I,1968-05-30,{F},2012-04-02,2016-11-11,Production,Kelley Spirea,18,Diversity Job Fair
+"Medeiros, Jennifer",10068,55688,Production Technician I,1976-09-22,{F},2015-03-30,,Production,Michael Albert,22,CareerBuilder
+"Miller, Brannon",10116,83667,Production Manager,1981-08-10,{M },2012-08-16,,Production,Janet King,2,Indeed
+"Miller, Ned",10298,55800,Production Technician II,1985-06-29,{M },2011-08-15,2014-09-04,Production,Brannon Miller,12,LinkedIn
+"Monkfish, Erasumus",10213,58207,Production Technician II,1992-08-17,{M },2011-11-07,,Production,David Stanley,14,LinkedIn
+"Monroe, Peter",10288,157000,IT Manager - Infra,1986-10-05,{M },2012-02-15,,IT/IS,Jennifer Zamora,5,Diversity Job Fair
+"Monterro, Luisa",10025,72460,Production Technician II,1970-04-24,{F},2013-05-13,,Production,Kissy Sullivan,20,Indeed
+"Moran, Patrick",10223,72106,Production Technician II,1976-12-03,{M },2012-01-09,,Production,Kelley Spirea,18,Diversity Job Fair
+"Morway, Tanya",10151,52599,Network Engineer,1979-04-04,{F},2015-02-16,,IT/IS,Peter Monroe,7,CareerBuilder
+"Motlagh,  Dawn",10254,63430,Production Technician I,1984-07-07,{F},2013-04-01,,Production,Elijiah Gray,16,LinkedIn
+"Moumanil, Maliki ",10120,74417,Production Technician II,1974-12-01,{M },2013-05-13,,Production,Michael Albert,22,LinkedIn
+"Myers, Michael",10216,57575,Production Technician I,1980-04-18,{M },2013-07-08,,Production,Kissy Sullivan,20,LinkedIn
+"Navathe, Kurt",10079,87921,Senior BI Developer,1970-04-25,{M },2017-02-10,,IT/IS,Brian Champaigne,13,Indeed
+"Ndzi, Colombui",10215,50470,Production Technician I,1989-05-02,{M },2011-09-26,2014-04-04,Production,Webster Butler,39,Diversity Job Fair
+"Ndzi, Horia",10185,46664,Production Technician I,1983-03-28,{M },2013-04-01,2016-05-25,Production,Amy Dunn,11,Employee Referral
+"Newman, Richard ",10063,48495,Production Technician I,1977-04-08,{M },2014-05-12,,Production,Ketsia Liebig,19,LinkedIn
+"Ngodup, Shari ",10037,52984,Production Technician I,1967-06-03,{F},2013-04-01,,Production,Brannon Miller,12,Diversity Job Fair
+"Nguyen, Dheepa",10042,63695,Area Sales Manager,1989-03-31,{F},2013-07-08,,Sales,Lynn Daneault,21,Indeed
+"Nguyen, Lei-Ming",10206,62061,Production Technician I,1984-07-07,{F},2013-07-08,,Production,David Stanley,14,LinkedIn
+"Nowlan, Kristie",10104,66738,Production Technician II,1985-11-23,{F},2014-11-10,,Production,Elijiah Gray,16,Indeed
+"O'hare, Lynn",10303,52674,Production Technician I,1980-09-30,{F},2014-03-31,2018-05-01,Production,Kissy Sullivan,20,LinkedIn
+"Oliver, Brooke ",10078,71966,Production Technician II,1952-02-11,{F},2012-05-14,2013-08-19,Production,Webster Butler,39,LinkedIn
+"Onque, Jasmine",10121,63051,Area Sales Manager,1990-05-11,{F},2013-09-30,,Sales,Lynn Daneault,21,Indeed
+"Osturnka, Adeel",10021,47414,Production Technician I,1976-12-11,{M },2013-09-30,,Production,Kelley Spirea,18,LinkedIn
+"Owad, Clinton",10281,53060,Production Technician I,1979-11-24,{M },2014-02-17,,Production,Michael Albert,22,LinkedIn
+"Ozark, Travis",10041,68829,Area Sales Manager,1982-05-19,{M },2015-01-05,,Sales,John Smith,17,Website
+"Panjwani, Nina",10148,63515,Production Technician I,1979-05-01,{F},2011-02-07,2014-01-12,Production,Elijiah Gray,16,Google Search
+"Patronick, Lucas",10005,108987,Software Engineer,1979-02-20,{M },2011-11-07,2015-09-07,Software Engineering,Alex Sweetwater,10,Diversity Job Fair
+"Pearson, Randall",10259,93093,Data Analyst,1984-09-05,{M },2014-12-01,2016-05-01,IT/IS,Simon Roup,4,Employee Referral
+"Smith, Martin",10286,53564,Production Technician I,1988-03-17,{M },2011-01-10,2017-12-28,Production,Webster Butler,39,Google Search
+"Pelletier, Ermine",10297,60270,Production Technician II,1989-07-18,{F},2011-07-05,2015-09-15,Production,Amy Dunn,11,CareerBuilder
+"Perry, Shakira",10171,45998,Production Technician I,1986-07-20,{F},2011-05-16,2015-10-25,Production,Amy Dunn,11,LinkedIn
+"Peters, Lauren",10032,57954,Production Technician II,1986-08-17,{F},2011-05-16,2013-02-04,Production,Ketsia Liebig,19,Indeed
+"Peterson, Ebonee  ",10130,74669,Production Manager,1977-05-09,{F},2010-10-25,2016-05-18,Production,Janet King,2,Indeed
+"Petingill, Shana  ",10217,74226,Production Technician II,1979-03-10,{F},2012-04-02,,Production,Brannon Miller,12,LinkedIn
+"Petrowsky, Thelma",10016,93554,Data Analyst,1984-09-16,{F},2014-11-10,,IT/IS,Simon Roup,4,Employee Referral
+"Pham, Hong",10050,64724,Production Technician I,1988-03-06,{M },2011-07-05,2012-11-30,Production,Brannon Miller,12,Google Search
+"Pitt, Brad ",10164,47001,Production Technician I,1981-11-23,{M },2007-11-05,,Production,David Stanley,14,Google Search
+"Potts, Xana",10124,61844,Area Sales Manager,1988-08-29,{F},2012-01-09,,Sales,Lynn Daneault,21,Website
+"Power, Morissa",10187,46799,Production Technician I,1984-10-15,{F},2011-05-16,2018-06-04,Production,Kissy Sullivan,20,Google Search
+"Punjabhi, Louis  ",10225,59472,Production Technician I,1961-06-19,{M },2014-01-06,,Production,Kelley Spirea,18,Employee Referral
+"Purinton, Janine",10262,46430,Production Technician I,1970-09-22,{F},2012-09-24,2013-06-18,Production,Kissy Sullivan,20,Indeed
+"Quinn, Sean",10131,83363,Software Engineer,1984-11-06,{M },2011-02-21,2015-08-15,Software Engineering,Janet King,2,Diversity Job Fair
+"Rachael, Maggie",10239,95920,BI Developer,1980-05-12,{F},2016-10-02,,IT/IS,Brian Champaigne,13,Indeed
+"Rarrick, Quinn",10152,61729,Production Technician I,1984-12-31,{M },2011-09-26,2018-04-07,Production,Michael Albert,22,Indeed
+"Ren, Kylo",10140,61809,Area Sales Manager,1954-10-12,{M },2014-05-12,,Sales,John Smith,17,CareerBuilder
+"Rhoads, Thomas",10058,45115,Production Technician I,1982-07-22,{M },2011-05-16,2016-01-15,Production,Elijiah Gray,16,LinkedIn
+"Rivera, Haley  ",10011,46738,Production Technician I,1973-01-12,{F},2011-11-28,,Production,Webster Butler,,Google Search
+"Roberson, May",10230,64971,Production Technician II,1981-09-05,{F},2011-09-26,2011-10-22,Production,David Stanley,14,Google Search
+"Robertson, Peter",10224,55578,Production Technician II,1972-07-03,{M },2011-07-05,2012-02-08,Production,Kissy Sullivan,20,Indeed
+"Robinson, Alain  ",10047,50428,Production Technician I,1974-01-07,{M },2011-01-10,2016-01-26,Production,Amy Dunn,11,Indeed
+"Robinson, Cherly",10285,61422,Production Technician I,1985-01-07,{F},2011-01-10,2016-05-17,Production,Ketsia Liebig,19,Indeed
+"Robinson, Elias",10020,63353,Production Technician I,1985-01-28,{M },2013-07-08,,Production,Brannon Miller,12,Employee Referral
+"Roby, Lori ",10162,89883,Data Analyst,1981-10-11,{F},2015-02-16,,IT/IS,Simon Roup,4,Employee Referral
+"Roehrich, Bianca",10149,120000,Principal Data Architect,1973-05-27,{F},2015-01-05,2018-11-10,IT/IS,Simon Roup,4,LinkedIn
+"Roper, Katie",10086,150290,Data Architect,1972-11-21,{F},2017-01-07,,IT/IS,Brian Champaigne,13,Indeed
+"Rose, Ashley  ",10054,60627,Production Technician I,1974-12-05,{F},2014-01-06,,Production,David Stanley,14,Website
+"Rossetti, Bruno",10065,53180,Production Technician I,1987-03-18,{M },2011-04-04,2018-08-13,Production,Kissy Sullivan,20,Google Search
+"Roup,Simon",10198,140920,IT Manager - DB,1973-04-05,{M },2013-01-20,,IT/IS,Jennifer Zamora,5,Indeed
+"Ruiz, Ricardo",10222,148999,IT Manager - DB,1964-01-04,{M },2012-01-09,2015-11-04,IT/IS,Jennifer Zamora,5,Diversity Job Fair
+"Saada, Adell",10126,86214,Software Engineer,1986-07-24,{F},2012-11-05,,Software Engineering,Alex Sweetwater,10,Indeed
+"Saar-Beckles, Melinda",10295,47750,Production Technician I,1968-06-06,{F},2016-07-04,,Production,Kelley Spirea,18,Diversity Job Fair
+"Sadki, Nore  ",10260,46428,Production Technician I,1974-12-21,{M },2009-01-05,2018-07-30,Production,Michael Albert,22,Google Search
+"Sahoo, Adil",10233,57975,Production Technician II,1986-04-26,{M },2010-08-30,,Production,Kelley Spirea,18,CareerBuilder
+"Salter, Jason",10229,88527,Data Analyst ,1987-12-17,{M },2015-01-05,2015-10-31,IT/IS,Simon Roup,4,LinkedIn
+"Sander, Kamrin",10169,56147,Production Technician I,1988-07-10,{F},2014-09-29,,Production,Elijiah Gray,16,LinkedIn
+"Sewkumar, Nori",10071,50923,Production Technician I,1975-03-10,{F},2013-09-30,,Production,Webster Butler,,Google Search
+"Shepard, Anita ",10179,50750,Network Engineer,1981-04-14,{F},2014-09-30,,IT/IS,Peter Monroe,7,LinkedIn
+"Shields, Seffi",10091,52087,Production Technician I,1985-08-24,{F},2013-08-19,,Production,Amy Dunn,11,LinkedIn
+"Simard, Kramer",10178,87826,Data Analyst,1970-02-08,{M },2015-01-05,,IT/IS,Simon Roup,4,Employee Referral
+"Singh, Nan ",10039,51920,Administrative Assistant,1988-05-19,{F},2015-05-01,,Admin Offices,Brandon R. LeBlanc,1,Website
+"Sloan, Constance",10095,63878,Production Technician II,1987-11-25,{F},2009-10-26,2015-04-08,Production,Michael Albert,22,CareerBuilder
+"Smith, Joe",10027,60656,Production Technician II,1963-10-30,{M },2014-09-29,,Production,Elijiah Gray,16,Indeed
+"Smith, John",10291,72992,Sales Manager,1984-08-16,{M },2014-05-18,,Sales,Debra Houlihan,15,Diversity Job Fair
+"Smith, Leigh Ann",10153,55000,Administrative Assistant,1987-06-14,{F},2011-09-26,2013-09-25,Admin Offices,Brandon R. LeBlanc,1,Diversity Job Fair
+"Smith, Sade",10157,58939,Production Technician I,1965-02-02,{F},2013-11-11,,Production,Ketsia Liebig,19,Employee Referral
+"Soto, Julia ",10119,66593,IT Support,1973-03-12,{F},2011-06-10,,IT/IS,Eric Dougall,6,LinkedIn
+"Soze, Keyser",10180,87565,Sr. Network Engineer,1983-02-09,{M },2016-06-30,,IT/IS,Peter Monroe,7,LinkedIn
+"Sparks, Taylor  ",10302,64021,Production Technician I,1968-07-20,{F},2012-02-20,,Production,Brannon Miller,12,Indeed
+"Spirea, Kelley",10090,65714,Production Manager,1975-09-30,{F},2012-10-02,,Production,Janet King,2,LinkedIn
+"Squatrito, Kristen",10030,62425,Production Technician I,1973-03-26,{F},2013-05-13,2015-06-29,Production,David Stanley,14,LinkedIn
+"Stanford,Barbara  M",10278,47961,Production Technician I,1982-08-25,{F},2011-01-10,,Production,Kissy Sullivan,20,Google Search
+"Stansfield, Norman",10307,58273,Area Sales Manager,1974-05-09,{M },2014-05-12,,Sales,Lynn Daneault,21,Website
+"Steans, Tyrone  ",10147,63003,Accountant I,1986-09-01,{M },2014-09-29,,Admin Offices,Brandon R. LeBlanc,1,Indeed
+"Stoica, Rick",10266,61355,Production Technician I,1985-03-14,{M },2014-02-17,,Production,Kelley Spirea,18,LinkedIn
+"Strong, Caitrin",10241,60120,Area Sales Manager,1989-05-12,{F},2010-09-27,,Sales,John Smith,17,Indeed
+"Sullivan, Kissy ",10158,63682,Production Manager,1978-03-28,{F},2009-01-08,,Production,Janet King,2,Indeed
+"Sullivan, Timothy",10117,63025,Production Technician I,1982-10-07,{M },2015-01-05,,Production,Michael Albert,22,Google Search
+"Sutwell, Barbara",10209,59238,Production Technician I,1968-08-15,{F},2012-05-14,,Production,Elijiah Gray,16,Indeed
+"Szabo, Andrew",10024,92989,Software Engineer,1983-05-06,{M },2014-07-07,,Software Engineering,Alex Sweetwater,10,LinkedIn
+"Tannen, Biff",10173,90100,BI Developer,1987-10-24,{M },2017-04-20,,IT/IS,Brian Champaigne,13,Indeed
+"Tavares, Desiree  ",10221,60754,Production Technician I,1975-04-03,{F},2009-04-27,2013-04-01,Production,Webster Butler,39,Diversity Job Fair
+"Tejeda, Lenora ",10146,72202,Production Technician II,1953-05-24,{F},2011-05-16,2017-07-08,Production,Elijiah Gray,16,Google Search
+"Terry, Sharlene ",10161,58370,Area Sales Manager,1965-05-07,{F},2014-09-29,,Sales,Lynn Daneault,21,Indeed
+"Theamstern, Sophia",10141,48413,Production Technician I,1965-05-09,{F},2011-07-05,2016-09-05,Production,Amy Dunn,11,Indeed
+"Thibaud, Kenneth",10268,67176,Production Technician II,1975-09-16,{M },2007-06-25,2010-08-30,Production,Webster Butler,39,Other
+"Tippett, Jeanette",10123,56339,Production Technician I,1967-06-05,{F},2013-02-18,,Production,Brannon Miller,12,Indeed
+"Torrence, Jack",10013,64397,Area Sales Manager,1968-01-15,{M },2006-01-09,,Sales,Lynn Daneault,21,Indeed
+"Trang, Mei",10287,63025,Production Technician I,1983-05-16,{F},2014-02-17,,Production,David Stanley,14,LinkedIn
+"Tredinnick, Neville ",10044,75281,Network Engineer,1988-05-05,{M },2015-01-05,2016-02-12,IT/IS,Peter Monroe,7,CareerBuilder
+"True, Edward",10102,100416,Software Engineer,1983-06-14,{M },2013-02-18,2018-04-15,Software Engineering,Alex Sweetwater,10,Diversity Job Fair
+"Trzeciak, Cybil",10270,74813,Production Technician II,1985-03-15,{F},2011-01-10,2014-07-02,Production,Amy Dunn,11,LinkedIn
+"Turpin, Jumil",10045,76029,Network Engineer,1969-03-31,{M },2015-03-30,,IT/IS,Peter Monroe,7,Employee Referral
+"Valentin,Jackie",10205,57859,Area Sales Manager,1991-05-23,{F},2011-07-05,,Sales,John Smith,17,Indeed
+"Veera, Abdellah ",10014,58523,Production Technician I,1987-01-31,{M },2012-08-13,2016-02-05,Production,Kissy Sullivan,20,LinkedIn
+"Vega, Vincent",10144,88976,Production Manager,1968-10-10,{M },2011-08-01,,Production,Janet King,2,Employee Referral
+"Villanueva, Noah",10253,55875,Area Sales Manager,1989-07-11,{M },2012-03-05,,Sales,John Smith,17,Website
+"Voldemort, Lord",10118,113999,Database Administrator,1986-08-07,{M },2015-02-16,2017-02-22,IT/IS,Simon Roup,4,Employee Referral
+"Volk, Colleen",10022,49773,Production Technician I,1986-06-03,{F},2011-09-26,2016-02-08,Production,Kelley Spirea,18,Google Search
+"Von Massenbach, Anna",10183,62068,Production Technician I,1985-04-06,{F},2015-07-05,,Production,Michael Albert,22,LinkedIn
+"Walker, Roger",10190,66541,Production Technician II,1976-02-10,{M },2014-08-18,,Production,Ketsia Liebig,19,Employee Referral
+"Wallace, Courtney  E",10274,80512,Production Manager,1955-11-14,{F},2011-09-26,2012-01-02,Production,Janet King,2,Diversity Job Fair
+"Wallace, Theresa",10293,50274,Production Technician I,1980-08-02,{F},2012-08-13,2015-09-01,Production,Elijiah Gray,16,CareerBuilder
+"Wang, Charlie",10172,84903,Senior BI Developer,1981-07-08,{M },2017-02-15,,IT/IS,Brian Champaigne,13,Indeed
+"Warfield, Sarah",10127,107226,Sr. Network Engineer,1978-05-02,{F},2015-03-30,,IT/IS,Peter Monroe,7,Employee Referral
+"Whittier, Scott",10072,58371,Production Technician I,1987-05-24,{M },2011-01-10,2014-05-15,Production,Webster Butler,39,LinkedIn
+"Wilber, Barry",10048,55140,Production Technician I,1965-09-09,{M },2011-05-16,2015-09-07,Production,Amy Dunn,11,Website
+"Wilkes, Annie",10204,58062,Production Technician I,1983-07-30,{F},2011-01-10,2012-05-14,Production,Ketsia Liebig,19,Google Search
+"Williams, Jacquelyn  ",10264,59728,Production Technician I,1969-10-02,{F},2012-01-09,2015-06-27,Production,Ketsia Liebig,19,Diversity Job Fair
+"Winthrop, Jordan  ",10033,70507,Production Technician II,1958-11-07,{M },2013-01-07,2016-02-21,Production,Brannon Miller,12,LinkedIn
+"Wolk, Hang  T",10174,60446,Production Technician II,1985-04-20,{F},2014-09-29,,Production,David Stanley,14,LinkedIn
+"Woodson, Jason",10135,65893,Production Technician II,1985-05-11,{M },2014-07-07,,Production,Kissy Sullivan,20,LinkedIn
+"Ybarra, Catherine ",10301,48513,Production Technician I,1982-05-04,{F},2008-09-02,2015-09-29,Production,Brannon Miller,12,Google Search
+"Zamora, Jennifer",10010,220450,CIO,1979-08-30,{F},2010-04-10,,IT/IS,Janet King,2,Employee Referral
+"Zhou, Julia",10043,89292,Data Analyst,1979-02-24,{F},2015-03-30,,IT/IS,Simon Roup,4,Employee Referral
+"Zima, Colleen",10271,45046,Production Technician I,1978-08-17,{F},2014-09-29,,Production,David Stanley,14,LinkedIn
