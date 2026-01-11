@@ -9,7 +9,7 @@ attrition trends, and departmental performance using SQL.
 - PostgreSQL
 - pgAdmin
 - SQL (Window Functions, CTEs, Joins)
-- Kaggle Dataset
+- Kaggle Dataset - https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 
 ## 📂 Dataset
 HR employee data containing:
